@@ -1,0 +1,6 @@
+# This is a comment
+
+tempfile.txt
+*.zip
+log/*.log
+log/*.log.[0-9]
